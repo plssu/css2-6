@@ -1,0 +1,52 @@
+#section {
+    display: inline-block;
+    margin-top: 50px;
+    margin-left: 40px;
+    text-align: center;
+    width: 1200px;
+    height: 900px;
+    background-color: #E4EBFF;
+}
+
+#features {
+    display: inline-block;
+    text-align: center;
+    width: 1000px;
+}
+
+#contOne {
+    display: inline-block;
+    text-align: center;
+    padding: 0px 32px;
+    width: 1280px;
+    max-width: 1280px;
+    height: 136px;
+}
+
+#contentOne {
+    display: inline-block;
+    text-align: center;
+    padding: 0 0;
+    width: 1216px;
+    height: 136px;
+}
+
+#headingAndSubheading {
+    display: inline-block;
+    text-align: center;
+    padding: 0px;
+    width: 929px;
+    height: 80px;
+}
+
+#subheading {
+    display: inline-block;
+}
+ 
+#heading {
+    display: inline-block;
+    font-size: 57px;
+    width:999px;
+    margin: 0 auto;
+    padding-left: 0;
+}
